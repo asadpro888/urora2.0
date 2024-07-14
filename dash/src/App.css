@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.line{
+  margin-top: 10px;
+  background: gray;
+}
+.wap{
+display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 40px;
+}
+.uz{
+display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
